@@ -1,4 +1,4 @@
-This a flappy bird based build and coded using my own code and my own creativity.
+This a flappy bird Unity based build and coded using my own code and my own creativity.
 
 I didn't like to use other peoples one to one so i didn't go to a flappy bird specific tutorial,
 but i watched specific tutorials for movements and scene management . . .etc
