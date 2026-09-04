@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: acdeb974caa342a47a598d559ea723a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7791941181343092659
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_0
+  - first:
+      213: -2396659768301935057
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_1
+  - first:
+      213: -8219593464022691713
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_2
+  - first:
+      213: -767452359253287322
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_3
+  - first:
+      213: 2061391759628011155
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_4
+  - first:
+      213: -4742947882168398715
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_5
+  - first:
+      213: 3663004779990370995
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_6
+  - first:
+      213: 5213873586842645429
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_7
+  - first:
+      213: 9006979766114819636
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_8
+  - first:
+      213: -5934417265807358043
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_9
+  - first:
+      213: 5300185089410824938
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_10
+  - first:
+      213: -6231536071297500048
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_11
+  - first:
+      213: 5777462711501315718
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_12
+  - first:
+      213: 6338887731236914818
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_13
+  - first:
+      213: -2986785160939431942
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_14
+  - first:
+      213: -7128332485790893348
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_15
+  - first:
+      213: -7478341768131142072
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_16
+  - first:
+      213: 3356725523204873192
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_17
+  - first:
+      213: -2567548761467468595
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_18
+  - first:
+      213: 5041663382022123164
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_19
+  - first:
+      213: -8899864258001945067
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_20
+  - first:
+      213: 3737258595646307368
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_21
+  - first:
+      213: -5386981996982954167
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_22
+  - first:
+      213: 4901431436269828220
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_23
+  - first:
+      213: 172921728735144095
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_24
+  - first:
+      213: -2190339414500506278
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_25
+  - first:
+      213: 2988699568126365969
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_26
+  - first:
+      213: 5198240435272240534
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_27
+  - first:
+      213: -3973601906468892088
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_28
+  - first:
+      213: -4025139760854309450
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_29
+  - first:
+      213: 5772297430715062788
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_30
+  - first:
+      213: -6759384069484894379
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_31
+  - first:
+      213: 855726828255191046
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_32
+  - first:
+      213: -5825498622172580369
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_33
+  - first:
+      213: -7433262297847451593
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_34
+  - first:
+      213: -3741669071662546919
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_35
+  - first:
+      213: -1154142295059139449
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_36
+  - first:
+      213: -4625962569989027451
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_37
+  - first:
+      213: -343177237249952286
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_38
+  - first:
+      213: -4268181566413580015
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_39
+  - first:
+      213: -2369146851849190628
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_40
+  - first:
+      213: -7084668077838434003
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_41
+  - first:
+      213: -7405172155306412356
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_42
+  - first:
+      213: -3412012835803565840
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_43
+  - first:
+      213: -2929290214595163037
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_44
+  - first:
+      213: -2378605418947946900
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_45
+  - first:
+      213: -7459802663675799759
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_46
+  - first:
+      213: 2714457470155379227
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_47
+  - first:
+      213: -6734808075251426721
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_48
+  - first:
+      213: 4116373256120035257
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_49
+  - first:
+      213: 7847358886161496572
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_50
+  - first:
+      213: 5879555878383559696
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_51
+  - first:
+      213: -6846430493400520402
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_52
+  - first:
+      213: -4992575649563912651
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_53
+  - first:
+      213: -8546298435130678183
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_54
+  - first:
+      213: -5854805937929424591
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_55
+  - first:
+      213: -792072916037319621
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_56
+  - first:
+      213: -5261888398100795550
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_57
+  - first:
+      213: 2836216534326455729
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_58
+  - first:
+      213: -1819918896409925969
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_59
+  - first:
+      213: 4716808791465971919
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_60
+  - first:
+      213: 6747232362491623495
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_61
+  - first:
+      213: 8469417071004661312
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_62
+  - first:
+      213: -672954123154294201
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_63
+  - first:
+      213: -5244309641835961799
+    second: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_0
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 3932
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40be4f67c67dd390800000000000000
+      internalID: -7791941181343092659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_1
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 3816
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26a4e683aa5dbed0800000000000000
+      internalID: -2396659768301935057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_2
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3857
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f701ec23b432eed80800000000000000
+      internalID: -8219593464022691713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_3
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3827
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e1ca835267955f0800000000000000
+      internalID: -767452359253287322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 270
+        width: 3540
+        height: 3541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3968b8732e88b9c10800000000000000
+      internalID: 2061391759628011155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_5
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 3793
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c4927c70aad2eb0800000000000000
+      internalID: -4742947882168398715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_6
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 3787
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba42e1a07b95d230800000000000000
+      internalID: 3663004779990370995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_7
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 3803
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b33c8727666b5840800000000000000
+      internalID: 5213873586842645429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_8
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 3795
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e976250683ffc70800000000000000
+      internalID: 9006979766114819636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_9
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 3435
+        width: 380
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a78b9a40f6b4ada0800000000000000
+      internalID: -5934417265807358043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_10
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 3742
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea772ad14a0e8940800000000000000
+      internalID: 5300185089410824938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_11
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 3763
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c774195f22589a0800000000000000
+      internalID: -6231536071297500048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_12
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 3768
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ed91ec9bbad2050800000000000000
+      internalID: 5777462711501315718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_13
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 3751
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28645738ec048f750800000000000000
+      internalID: 6338887731236914818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3269
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af71cc588becc86d0800000000000000
+      internalID: -2986785160939431942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3291
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda7e872f53131d90800000000000000
+      internalID: -7128332485790893348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_16
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3269
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e9399a8c7973890800000000000000
+      internalID: -7478341768131142072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3157
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb1d13241c759e20800000000000000
+      internalID: 3356725523204873192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3068
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4cc31410c3e5cd0800000000000000
+      internalID: -2567548761467468595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3001
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee582522697f540800000000000000
+      internalID: 5041663382022123164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3004
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e39906c945d7480800000000000000
+      internalID: -8899864258001945067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2895
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cf54354e86dd330800000000000000
+      internalID: 3737258595646307368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_22
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 2703
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947186a4a689d35b0800000000000000
+      internalID: -5386981996982954167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_23
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 2703
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78bbc12ce1650440800000000000000
+      internalID: 4901431436269828220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_24
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 2720
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9864376567566200800000000000000
+      internalID: 172921728735144095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_25
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 2658
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55092d48e95a91e0800000000000000
+      internalID: -2190339414500506278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_26
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 2697
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11119822c6ef97920800000000000000
+      internalID: 2988699568126365969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_27
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 2675
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d4979622cd32840800000000000000
+      internalID: 5198240435272240534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_28
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 2550
+        width: 116
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8425b1e7e1eead8c0800000000000000
+      internalID: -3973601906468892088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_29
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 2526
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b56afea6b4d328c0800000000000000
+      internalID: -4025139760854309450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_30
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 2532
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40adba72ee15b1050800000000000000
+      internalID: 5772297430715062788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_31
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 2468
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5572be56008d132a0800000000000000
+      internalID: -6759384069484894379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2432
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6002ce6340720eb00800000000000000
+      internalID: 855726828255191046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2349
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe530e13edba72fa0800000000000000
+      internalID: -5825498622172580369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2355
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730bf7eb25fb7d890800000000000000
+      internalID: -7433262297847451593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_35
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 2235
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9100d74bdcbe21cc0800000000000000
+      internalID: -3741669071662546919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2042
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784feb292b9abffe0800000000000000
+      internalID: -1154142295059139449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2046
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5890d8f4d874dcfb0800000000000000
+      internalID: -4625962569989027451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2050
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e577b6fe1acc3bf0800000000000000
+      internalID: -343177237249952286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_39
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2050
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1195c09aa7f54c4c0800000000000000
+      internalID: -4268181566413580015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_40
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2018
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c134bc29d791f1fd0800000000000000
+      internalID: -2369146851849190628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1929
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2104ec5be33ead90800000000000000
+      internalID: -7084668077838434003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1947
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6f856b82b8b3990800000000000000
+      internalID: -7405172155306412356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1852
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0fad8476816a0d0800000000000000
+      internalID: -3412012835803565840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_44
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1886
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c0703e1121957d0800000000000000
+      internalID: -2929290214595163037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1826
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66d9ce49fe7dfed0800000000000000
+      internalID: -2378605418947946900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1814
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13757194005797890800000000000000
+      internalID: -7459802663675799759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1340
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b125482ffa0bba520800000000000000
+      internalID: 2714457470155379227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_48
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1333
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ad434fcb72982a0800000000000000
+      internalID: -6734808075251426721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1321
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7e3fdbaab402930800000000000000
+      internalID: 4116373256120035257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1270
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf939a2745b67ec60800000000000000
+      internalID: 7847358886161496572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1237
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014ac109be0689150800000000000000
+      internalID: 5879555878383559696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1184
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29a57d7db79cf0a0800000000000000
+      internalID: -6846430493400520402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_53
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1175
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5365a7506eec6bab0800000000000000
+      internalID: -4992575649563912651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9542f8d7ad2756980800000000000000
+      internalID: -8546298435130678183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1180
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1317ed0050d8fbea0800000000000000
+      internalID: -5854805937929424591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_56
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1146
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34436321edf105f0800000000000000
+      internalID: -792072916037319621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_57
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1095
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fe37f61640af6b0800000000000000
+      internalID: -5261888398100795550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_58
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 262
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd2e9a39e34c5720800000000000000
+      internalID: 2836216534326455729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_59
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 258
+        width: 136
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa62773f7695eb6e0800000000000000
+      internalID: -1819918896409925969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_60
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 248
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0d4c8ea98757140800000000000000
+      internalID: 4716808791465971919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_61
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 263
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7483557d51cf2ad50800000000000000
+      internalID: 6747232362491623495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_62
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 258
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046bcd304f9698570800000000000000
+      internalID: 8469417071004661312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_63
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 207
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74af04b5acf29a6f0800000000000000
+      internalID: -672954123154294201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_64
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 195
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93226329a287837b0800000000000000
+      internalID: -5244309641835961799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_0: -7791941181343092659
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_1: -2396659768301935057
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_10: 5300185089410824938
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_11: -6231536071297500048
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_12: 5777462711501315718
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_13: 6338887731236914818
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_14: -2986785160939431942
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_15: -7128332485790893348
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_16: -7478341768131142072
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_17: 3356725523204873192
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_18: -2567548761467468595
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_19: 5041663382022123164
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_2: -8219593464022691713
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_20: -8899864258001945067
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_21: 3737258595646307368
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_22: -5386981996982954167
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_23: 4901431436269828220
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_24: 172921728735144095
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_25: -2190339414500506278
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_26: 2988699568126365969
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_27: 5198240435272240534
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_28: -3973601906468892088
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_29: -4025139760854309450
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_3: -767452359253287322
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_30: 5772297430715062788
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_31: -6759384069484894379
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_32: 855726828255191046
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_33: -5825498622172580369
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_34: -7433262297847451593
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_35: -3741669071662546919
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_36: -1154142295059139449
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_37: -4625962569989027451
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_38: -343177237249952286
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_39: -4268181566413580015
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_4: 2061391759628011155
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_40: -2369146851849190628
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_41: -7084668077838434003
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_42: -7405172155306412356
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_43: -3412012835803565840
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_44: -2929290214595163037
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_45: -2378605418947946900
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_46: -7459802663675799759
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_47: 2714457470155379227
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_48: -6734808075251426721
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_49: 4116373256120035257
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_5: -4742947882168398715
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_50: 7847358886161496572
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_51: 5879555878383559696
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_52: -6846430493400520402
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_53: -4992575649563912651
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_54: -8546298435130678183
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_55: -5854805937929424591
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_56: -792072916037319621
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_57: -5261888398100795550
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_58: 2836216534326455729
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_59: -1819918896409925969
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_6: 3663004779990370995
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_60: 4716808791465971919
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_61: 6747232362491623495
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_62: 8469417071004661312
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_63: -672954123154294201
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_64: -5244309641835961799
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_7: 5213873586842645429
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_8: 9006979766114819636
+      vecteezy_fiery-explosions-on-a-transparent-background-showcase_55324738_9: -5934417265807358043
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

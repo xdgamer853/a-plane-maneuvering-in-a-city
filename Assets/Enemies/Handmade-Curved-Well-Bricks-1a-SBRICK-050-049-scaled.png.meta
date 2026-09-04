@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: ebb95424a92655e44a3b8cb4d353447b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5946851750595403447
+    second: Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_1
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 749
+        height: 1454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dca32a0b1f0374caefbf8f4eafe466
+      internalID: -384360779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 863
+        height: 1454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f932f00ff94a6a4a82ab92d6bdf095a
+      internalID: -5946851750595403447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7fbc5e4cd3f2251498dfc5fa1bcc75a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":2,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_0: -5946851750595403447
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_1: -384360779
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_10: -1191814055
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_100: -1772692798
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_101: 1146308595
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_102: 815087581
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_103: 880885275
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_104: -86960261
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_105: -794709526
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_106: 1963739474
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_107: 1944865910
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_108: -2054028413
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_109: 650734926
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_11: 33546108
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_110: 350868203
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_111: 154399486
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_112: 1252876209
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_113: -1695276653
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_114: 487847442
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_115: -543987642
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_116: -1381095533
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_117: -313845422
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_118: -342692737
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_119: 1422097918
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_12: 609739645
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_120: 1020807278
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_121: 187181989
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_122: -1862649414
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_123: -452302035
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_124: -323541936
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_125: 645936726
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_13: -526527323
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_14: 1027407570
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_15: -23537422
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_16: 1741493434
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_17: -651678411
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_18: -560506150
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_19: 514322321
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_2: 267666897
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_20: -521959573
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_21: 1000453148
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_22: -274598281
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_23: 408446714
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_24: 590914898
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_25: -1050812673
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_26: -108742497
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_27: -275087377
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_28: -987469675
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_29: 205177636
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_3: 640106784
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_30: 309438603
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_31: -432270416
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_32: -923474602
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_33: 2003797544
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_34: -1508993493
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_35: -727110400
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_36: 978508064
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_37: -755846674
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_38: 1438659779
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_39: -12791060
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_4: 599281074
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_40: 2065558228
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_41: -151535459
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_42: 1055202605
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_43: 1082167004
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_44: -1448364577
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_45: -632390996
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_46: -1138155047
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_47: -1286999776
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_48: -1431428727
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_49: -2030293961
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_5: 2123128002
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_50: -922402449
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_51: 1253591871
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_52: 161009289
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_53: -2107978348
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_54: 119491854
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_55: 216370143
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_56: -78805121
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_57: 1102118374
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_58: -734244073
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_59: -2011002871
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_6: -1414478761
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_60: -1508099270
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_61: 1513806821
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_62: 696230762
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_63: -407356397
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_64: -391773434
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_65: -1391864288
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_66: -1943526144
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_67: -1977731432
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_68: -1800369531
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_69: -544593387
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_7: -949538433
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_70: -791731175
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_71: 1573000738
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_72: 992844938
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_73: -1528589520
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_74: 1974532045
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_75: -1871803451
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_76: -420475152
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_77: -1340478088
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_78: 691785370
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_79: 766500995
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_8: 2039115656
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_80: 134707704
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_81: -1914384522
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_82: 1328853728
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_83: -1765129988
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_84: -748202567
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_85: -1690771482
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_86: -826531579
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_87: 1046855250
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_88: 1643976047
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_89: -1688055836
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_9: -1609345344
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_90: -995276784
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_91: 278212428
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_92: 933871823
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_93: -1326531405
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_94: 1421263984
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_95: -598533850
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_96: -1635494765
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_97: -1421702315
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_98: -596618418
+      Handmade-Curved-Well-Bricks-1a-SBRICK-050-049-scaled_99: -1260360404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
