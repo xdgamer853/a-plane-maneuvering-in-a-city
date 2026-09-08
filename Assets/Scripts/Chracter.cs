@@ -18,10 +18,14 @@ public class Chracter : MonoBehaviour
     public GameObject Plane;
     public Transform PlaneT;
     public Transform ExplosionT;
+    private int HighScore;
+    public TextMeshProUGUI HighScoreT;
+    public GameObject HighScoreGO;
     private void Start()
     {
         YouAreDead = false;
-
+        HighScore = PlayerPrefs.GetInt("HighScore", HighScore);
+        HighScoreT.text = "High Score: " + HighScore;
     }
     private void Update()
     {  
@@ -47,6 +51,13 @@ public class Chracter : MonoBehaviour
             ExplosionT.position = new Vector3(PlaneT.position.x,PlaneT.position.y, -9);
             LoseScreen.SetActive(true);
             Explosion.SetActive(true);
+            if(Score.Instance.score > HighScore)
+            {
+                HighScore = Score.Instance.score;
+                HighScoreT.text = "New High Score: " + HighScore;
+                PlayerPrefs.SetInt("HighScore", HighScore);
+            }
+            HighScoreGO.SetActive(true);
             GetComponent<SpriteRenderer>().enabled = false;
             Time.timeScale = 0f;
         }
