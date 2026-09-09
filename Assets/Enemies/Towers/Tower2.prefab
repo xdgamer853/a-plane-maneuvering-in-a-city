@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scorepoint
   Ring: {fileID: 6768826732377474115}
+  PointEarning: {fileID: 8300000, guid: 5a84092fb27fcb94b833ba06857517d7, type: 3}
 --- !u!1 &1378294634724921004
 GameObject:
   m_ObjectHideFlags: 0

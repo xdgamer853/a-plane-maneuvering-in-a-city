@@ -1,4 +1,5 @@
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
 
@@ -21,6 +22,8 @@ public class Chracter : MonoBehaviour
     private int HighScore;
     public TextMeshProUGUI HighScoreT;
     public GameObject HighScoreGO;
+    public AudioClip JumpFX;
+    public AudioClip ExplosionFX;
     private void Start()
     {
         YouAreDead = false;
@@ -48,6 +51,7 @@ public class Chracter : MonoBehaviour
         if (collision.gameObject.tag == "Dead")
         {
             YouAreDead = true;
+            SoundFx.Instance.spawnsoundfx(ExplosionFX, transform, 1f);
             ExplosionT.position = new Vector3(PlaneT.position.x,PlaneT.position.y, -9);
             LoseScreen.SetActive(true);
             Explosion.SetActive(true);
@@ -68,6 +72,7 @@ public class Chracter : MonoBehaviour
     {
         if (Input.GetKeyDown (KeyCode.Space) && Time.time > NextJump)
         {
+            SoundFx.Instance.spawnsoundfx(JumpFX, transform, 1f);
             NextJump = cooldown + Time.time;
             rgbd2.linearVelocity = Vector2.up * JumpForce;
         }
